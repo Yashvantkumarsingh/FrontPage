@@ -78,6 +78,7 @@
  }
   /* Footer */
   .footer {
+      position:fixed;
     border: #ddd;
     border-radius: 5px;
     margin: 1.2%;
